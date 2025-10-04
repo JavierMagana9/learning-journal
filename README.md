@@ -1,61 +1,35 @@
-# 📚 Learning Journal
+# 📚 Javi’s Learning Journal
 
-Hi, I'm **Javi** – a MERN/PERN stack developer passionate about continuous learning and growth. This repository is my digital learning journal where I document my journey through new technologies, concepts, and best practices.
+> _"It is not important to be better than someone else, but to be better than you were yesterday."_ – **Jigoro Kano**
 
-The purpose of this journal is to:
-- Track my learning progress over time
-- Reinforce concepts through written reflection
-- Create a searchable reference for future projects
-- Share knowledge with the developer community
+Hi there! 👋  
+I’m **Javi** – a **MERN/PERN stack developer** passionate about building clean, efficient, and beautiful web experiences.  
+This repository is my **digital learning journal**, where I document my journey through new technologies, coding patterns, and creative experimentation.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JavierMagana9/learning-journal)
+---
 
-## 🌱 What You'll Find
+<div align="center">
 
-This journal contains:
-- **Daily/Weekly Learning Entries**: Structured notes on what I'm learning
-- **Topic Deep Dives**: In-depth exploration of specific technologies
-- **Reflections**: Personal insights and "aha!" moments
-- **Code Snippets**: Practical examples and experiments
-- **Resource Collections**: Curated links to helpful articles, videos, and documentation
+[![GitHub last commit](https://img.shields.io/github/last-commit/JavierMagana9/learning-journal?color=blue&logo=git)](https://github.com/JavierMagana9/learning-journal/commits/main)
+![GitHub repo size](https://img.shields.io/github/repo-size/JavierMagana9/learning-journal?color=orange)
+![GitHub stars](https://img.shields.io/github/stars/JavierMagana9/learning-journal?color=yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+[![Follow Javi](https://img.shields.io/github/followers/JavierMagana9?label=Follow&style=social)](https://github.com/JavierMagana9)
 
-Each entry follows a consistent format (see [`template.md`](./template.md)) to maintain clarity and organization.
+</div>
 
-## 🧩 Tech
+---
 
-My learning focuses on the **MERN/PERN** stack and related technologies:
+## 🌱 Purpose
 
-**Frontend**
-- React, Next.js, Vue
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- State Management (Redux, Context API, Zustand)
+This repo serves as both my **personal documentation system** and a **public learning trail**.  
+It helps me:
+- 🧭 Track learning progress over time  
+- 🧠 Reinforce concepts through written reflection  
+- 🧩 Build a searchable reference for future projects  
+- 🤝 Share insights with other developers  
 
-**Backend**
-- Node.js, Express
-- RESTful APIs, GraphQL
-- Authentication & Authorization (JWT, OAuth)
-
-**Database**
-- MongoDB (Mongoose)
-- PostgreSQL (Sequelize, Prisma)
-- Redis
-
-**DevOps & Tools**
-- Git & GitHub
-- Docker, Kubernetes
-- CI/CD pipelines
-- Testing (Jest, Vitest, Cypress)
-
-## 📅 Commit Philosophy
-
-I believe in consistent, meaningful progress:
-
-- **Regular Updates**: I commit learning entries as I complete them, not just when they're "perfect"
-- **Honest Reflections**: This journal captures both successes and struggles
-- **Iterative Improvement**: Entries may be updated as my understanding deepens
-- **Clear Messages**: Commit messages describe what was learned or added
-- **Growth Mindset**: Every entry represents a step forward in my journey
+---
 
 ## 📁 Structure
 
@@ -68,26 +42,53 @@ learning-journal/
 └── README.md               # You are here!
 ```
 
-## 🚀 How to Use This Journal
 
-1. Browse by date in the `YYYY/MM_Month/` folders for chronological entries
-2. Explore by topic in the `topics/` folder for subject-specific notes
-3. Use the search function to find specific technologies or concepts
-4. Copy `template.md` to create your own learning journal
-
-## 🤝 Contributing
-
-While this is a personal learning journal, I welcome:
-- Suggestions for topics to explore
-- Corrections or alternative perspectives
-- Resource recommendations
-
-Feel free to open an issue or start a discussion!
-
-## 📫 Connect
-
-If you're on a similar learning journey or want to discuss any of these topics, let's connect!
+Each entry follows a clear format — see [`template.md`](./template.md).
 
 ---
 
-*"Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." – Abigail Adams*
+## 🧩 Tech Focus
+
+My current stack and areas of exploration:
+
+| Area | Tools & Frameworks |
+|------|--------------------|
+| **Frontend** | React • Next.js • TypeScript • Tailwind CSS • Redux |
+| **Backend** | Node.js • Express • GraphQL • REST APIs • JWT • OAuth • FireBase|
+| **Database** | MongoDB (Mongoose) • PostgreSQL (Prisma) |
+| **DevOps** | Docker • CI/CD • GitHub Actions |
+| **Testing** | Jest • React Testing Library |
+
+---
+
+## 📅 Commit Philosophy
+
+I treat every commit as a micro-reflection of growth:
+
+| Principle | Description |
+|------------|-------------|
+| 🔁 **Consistency over perfection** | I commit what I learn, even if it’s not “finished.” |
+| ✍️ **Clarity in messages** | Each commit describes the concept explored. |
+| 🧠 **Refine over time** | I revisit and update entries as understanding deepens. |
+| 🚀 **Momentum matters** | Frequent, honest documentation beats sporadic perfection. |
+
+---
+
+## 🚀 How to Navigate
+
+1. 📆 **Browse by date** — check `YYYY/MM_Month/` folders for chronological logs.  
+2. 📘 **Browse by topic** — visit `topics/` for focused notes on React, Node, etc.  
+3. 🔍 **Search easily** — use GitHub’s file finder (`t`) to jump to any concept.  
+
+---
+
+## 📊 Activity & Stats
+
+<div align="center">
+
+![Javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMagana9&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMagana9&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+
